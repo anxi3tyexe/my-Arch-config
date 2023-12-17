@@ -1,0 +1,19 @@
+00:00:00.477894 VirtualBox GUI VM Selector Window 7.0.12 r159484 linux.amd64 (Oct 17 2023 12:57:12) release log
+00:00:00.477901 Log opened 2023-12-12T15:15:16.534802000Z
+00:00:00.477903 Build Type: release
+00:00:00.477913 OS Product: Linux
+00:00:00.477914 OS Release: 6.6.6-zen1-1-zen
+00:00:00.477916 OS Version: #1 ZEN SMP PREEMPT_DYNAMIC Mon, 11 Dec 2023 11:47:45 +0000
+00:00:00.478029 DMI Product Name: HP All-in-One 24-f0xx
+00:00:00.478040 DMI Product Version: 
+00:00:00.478044 Firmware type: UEFI
+00:00:00.479142 Secure Boot: Disabled
+00:00:00.479190 Host RAM: 7795MB (7.6GB) total, 6615MB (6.4GB) available
+00:00:00.479192 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.479193 Process ID: 1325
+00:00:00.479193 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.479229 Qt version: 5.15.11
+00:00:00.482137 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:00.487512 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.487526 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:01.133969 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 569x320 x 960x540

@@ -1,0 +1,70 @@
+/* -----------------------------------------------------
+ * General 
+ * ----------------------------------------------------- */
+* {
+  font-size: 16px;
+  font-family: JetBrainsMono Nerd Font;
+}
+
+window#waybar {
+  background-color: rgba(40, 40, 40, 0.5);
+  border-bottom: 2px solid rgba(40, 40, 40, 0.8);
+  color: #282828;
+}
+
+/* -----------------------------------------------------
+ * Workspaces 
+ * ----------------------------------------------------- */
+
+#workspaces button {
+  background: inherit;
+  color: #ddc7a1;
+}
+
+/* -----------------------------------------------------
+ * Tooltips
+ * ----------------------------------------------------- */
+tooltip {
+  background: #282828;
+  border: 1px solid #ffb86c;
+  border-radius: 10px;
+}
+
+tooltip label {
+  color: #f8f8f2;
+}
+
+/* -----------------------------------------------------
+ * Window
+ * ----------------------------------------------------- */
+#window {
+  color: #ddc7a1;
+  padding: 4px 10px;
+}
+
+#memory {
+  color: #e78a4e;
+  padding: 4px 10px;
+}
+
+#clock {
+  color: #7daea3;
+  padding: 4px 10px;
+}
+
+#network {
+  color: #ddc7a1;
+  padding: 4px 10px;
+}
+
+#wireplumber {
+  color: #ddc7a1;
+  padding: 4px 10px;
+}
+
+#custom-wireguard {
+  padding: 0 5px;
+  margin: 0 4px;
+  background-color: transparent;
+  color: #ffffff;
+}
